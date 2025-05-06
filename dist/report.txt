@@ -1,8 +1,0 @@
-Nome do Computador: Hogansnote
-Nome do Usuário: Daniels
-Sistema Operacional: Windows
-Versão SO: 10.0.26100
-Arquitetura: x64
-Endereço MAC: 00:15:5D:01:05:00
-Serial do HD: 6479_A75A_2000_02EE.
-Memória RAM: 15.75 GB
